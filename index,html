@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>GangKonJuay</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  </head>
+  <body>
+  <div class="jumbotron bg-info">
+  <h1>GangKonJuay Co., LTD.</h1>
+  <h4>We are the most beautiful girls in the world</h4>
+</div>
+<div class="card-deck">
+<div class="card" style="width:300px">
+  <img class="card-img-top" src="https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/70793699_2757257157646059_7550079063533027328_n.jpg?_nc_cat=107&_nc_oc=AQnRUQ3v2eJdyLWaLp95wYQGAG312aWD0I2OyvqRPphH-G0EApTQ8dfvEJAm48pEE0Q&_nc_ht=scontent.fbkk2-6.fna&oh=1c8a218fd6604a8be38d07b8382187d2&oe=5EA342FF" alt="aninthisa">
+  <div class="card-body">
+    <h4 class="card-title">Aninthisa Hanirattisai</h4>
+    <p class="card-text">Chairman</p>
+    <a href="aninthisa.html" class="btn btn-outline-info">See Profile</a>
+  </div>
+</div>
+  <div class="card" style="width:300px">
+  <img class="card-img-top" src="https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/p960x960/69264349_2713467822024993_970686725137367040_o.jpg?_nc_cat=109&_nc_oc=AQlp_WroEaahEfyjpLuefDVkQE1hzB61uu3vMMtCeRf2aj09GUlyfTzVxoM-vagnxWE&_nc_ht=scontent.fbkk2-7.fna&_nc_tp=1&oh=1e4a1a06495391e7bfcf06976281b00a&oe=5EA4D03E" alt="aninthisa">
+  <div class="card-body">
+    <h4 class="card-title">Aninthisa Hanirattisai</h4>
+    <p class="card-text">President</p>
+    <a href="aninthisa.html" class="btn btn-outline-info">See Profile</a>
+  </div>
+</div>
+  <div class="card" style="width:300px">
+  <img class="card-img-top" src="https://scontent.fbkk2-6.fna.fbcdn.net/v/t1.0-9/p960x960/65969429_2601224326582677_6088729703928037376_o.jpg?_nc_cat=107&_nc_oc=AQnkj3cSdn-0s61JeFBmnLHsF9N66cHL6ahWVeFj1LGkmzDs47WK0D7RK_vxdtf2QF4&_nc_ht=scontent.fbkk2-6.fna&_nc_tp=1&oh=b03c7591ad28532b39f03668d4124c31&oe=5ED895EC" alt="aninthisa">
+  <div class="card-body">
+    <h4 class="card-title">Aninthisa Hanirattisai</h4>
+    <p class="card-text">CEO</p>
+    <a href="aninthisa.html" class="btn btn-outline-info">See Profile</a>
+  </div>
+</div>
+</div>
+
+  </body>
+</html>
